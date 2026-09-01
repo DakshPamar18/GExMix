@@ -5,7 +5,7 @@
 
 ## Overview
 
-GExMix is a model-agnostic framework for augmenting molecular patient data through controlled, label-aware interpolation, designed to improve clinical drug response prediction in data-limited settings. This work was presented as a poster at [Conference Name / Venue], [Month Year].
+GExMix is a model-agnostic framework for augmenting molecular patient data through controlled, label-aware interpolation, designed to improve clinical drug response prediction in data-limited settings. This work was presented as a poster at ECCB Geneva 2026.
 
 ## Motivation
 
